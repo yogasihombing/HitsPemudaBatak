@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/wallpaper2"
+    android:gravity="center">
+
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:text="   JENIS-JENIS BATAK "
+        android:id="@+id/jenis"
+        android:textSize="27dp"
+        android:drawableLeft="@drawable/orang24dp"
+        />
+
+    <Button
+        android:layout_width="320dp"
+        android:id="@+id/marga"
+        android:layout_height="wrap_content"
+        android:text="MARGA BATAK"
+        android:textSize="27dp"
+        android:drawableLeft="@drawable/marga_24dp"/>
+    <Button
+        android:layout_width="320dp"
+        android:id="@+id/about"
+        android:layout_height="wrap_content"
+        android:text="   ABOUT US"
+        android:textSize="27dp"
+        android:drawableLeft="@drawable/contact_24dp"/>
+
+</LinearLayout>

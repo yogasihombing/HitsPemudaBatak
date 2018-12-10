@@ -1,0 +1,530 @@
+<resources>
+    <string name="app_name">HitsPemudaBatak</string>
+    <string name="jenis">
+        1. Suku Batak Toba, adalah satu etnik dari sekian banyak rumpun Batak yang terdapat di Sumatra. Wilayah pemukiman suku Batak Toba meliputi kabupaten Toba Samosir yang terdiri dari Balige, Laguboti, Parsoburan dan sekitarnya.
+Pada masa dahulu wilayah suku Batak Toba berada di Tapanuli Utara dan Tapanuli Tengah, yang disebut sebagai satu kesatuan etnis saja, yaitu suku Batak Toba. Tetapi karena terdapat perbedaan letak geografis dan pembagian distrik, maka saat ini suku Batak Toba dibagi menjadi beberapa puak Batak, yang disebut sebagai Rumpun Tapanuli yang saling berkerabat dekat secara kultural, yaitu suku Batak Toba, Batak Samosir, Batak Humbang dan Batak Silindung.
+    </string>
+    <string name="jenis1">2. Suku Batak Simalungun, adalah salah satu etnik Batak yang terkonsentrasi di kabupaten Simalungun provinsi Sumatra Utara. Wilayah kediaman suku Batak Simalungun berada di antara 2 etnik batak lainnya, yaitu suku Karo yang berada di kabupaten Tanah Karo dan suku Toba. Bahasa Simalungun sendiri memiliki kemiripan dengan bahasa Karo maupun bahasa Toba.
+
+Sehingga bahasa Simalungun disebut sebagai bahasa batak tengah. Sebagian orang Simalungun saat ini percaya bahwa asal usul orang Simalungun, dikatakan berasal dari India, tepatnya dari daerah Assam, India Selatan, dari suatu tempat yang bernama Asom. Dilihat dari adat istiadat dan tradisi budaya orang Simalungun banyak memiliki kemiripan dengan adat istiadat dan tradisi budaya Batak Karo maupun Batak Toba.
+    </string>
+    <string name="jenis2">3. Karo adalah salah Suku Bangsa yang mendiami Dataran Tinggi Karo, Sumatera Utara, Indonesia. Suku ini merupakan salah satu suku terbesar dalam Sumatera Utara. Nama suku ini dijadikan salah satu nama Kabupaten di salah satu wilayah yang mereka diami (dataran tinggi Karo) yaitu Tanah Karo.
+
+Suku ini memiliki bahasa sendiri yang disebut Bahasa Karo atau Cakap Karo. Pakaian adat suku Karo didominasi dengan warna merah serta hitam dan penuh dengan perhiasan emas. Karo dianggap sebagai bagian dari suku kekerabatan Batak, seperti kekerabatan Batak Toba, Batak Mandailing, Batak Simalungun, Batak Pak-Pak atau Dairi, dan Batak Karo.
+    </string>
+    <string name="jenis3">4. Suku Batak Pakpak, adalah suatu kelompok masyarakat yang terdapat di beberapa kabupaten di provinsi Sumatra Utara dan di sebagian wilayah provinsi Nanggroe Aceh. Orang Batak Pakpak, berbicara dalam bahasa sendiri, yaitu bahasa Pakpak. Sedangkan di Kelasen bahasa Pakpak disebut sebagai bahasa Dairi.
+
+Bahasa Pakpak ini merupakan cabang dari rumpun bahasa Austronesia, yang termasuk dari salah satu cabang dari rumpun bahasa Batak. Bahasa Batak Pakpak memiliki kekerabatan dengan bahasa Batak Karo, tapi bahasa Pakpak juga banyak mirip dengan bahasa Batak Toba. Pemakai bahasa Pakpak sendiri mengalami penurunan diakibatkan banyaknya arus pendatang di luar suku Pakpak yang memasuki wilayah mereka.
+    </string>
+    <string name="jenis4">5. Suku Batak Mandailing/angkola adalah salah satu suku dari sekian banyak Rumpun Batak yang telah lama hidup dalam suatu komunitas di kabupaten Mandailing-Natal, penyebaran juga terdapat di kabupaten Padang Lawas, kabupaten Padang Lawas Utara, dan sebagian kabupaten Tapanuli Selatan yang berada di provinsi Sumatera Utara.
+
+Orang Mandailing/angkola juga menyebar hingga ke wilayah provinsi Sumatra Barat, seperti di kabupaten Pasaman dan kabupaten Pasaman Barat. Suku Mandailing/angkola memiliki adat, budaya dan bahasa sendiri. Mereka berbicara dalam bahasa Mandailing/angkola. Bahasa Mandailing/angkola sendiri sangat berkerabat dengan bahasa Batak Toba.
+    </string>
+
+
+
+    <string name="marga">Marga Batak. Orang Batak selalu dikenal dengan marganya. Marga merupakan simbol bagi keluarga orang Batak. Karena marga berasal dari garis keturunan ayah, yang akan diteruskan secara turun menurun.
+
+Juga Marga adalah identitas. Sampai-sampai kalau kamu bertemu dengan orang baru, pasti yang ditanyakan bukan nama, tapi marganya. Setelah bertanya marga, barulah mereka akan menanyakan hal yang lain. Kalau marganya sama dengan margamu, pasti persaudaraan langsung terjalin.
+
+Serius bah, sampai saat ini begitu banyanya nama-nama marga etnis batak sampai-sampai tidak bisa hafal. Nah berikut ini adalah daftar marga batak yang disusun berdasarkan abjad.
+
+    </string>
+
+    <string name="marga1">Berikut ini daftar marga yang ada di suku Batak:
+
+        A.
+    1. AMBARITA
+    2. AMPAPAGA (SIAMPAPAGA)
+    3. AMPUN (NAHAMPUNGAN)
+    4. ANGKAT
+    5. ANGKAT SINGKAPAL
+    6. ARITONANG
+    7. ARUAN
+
+    B.
+    8. BABIAT
+    9. BAHO (NAIBAHO)
+    10. BAKO
+    11. BANJARNAHOR (NAINGGOLAN)
+    12. BANJARNAHOR (MARBUN)
+    13. BANCIN
+    14. BAKKARA
+    15. BARINGBING (TAMPUBOLON)
+    16. BARUARA (TAMBUNAN)
+    17. BARUTU (SITUMORANG)
+    18. BARUTU (SINAGA)
+    19. BATUARA (NAINGGOLAN)
+    20. BATUBARA
+    21. BERASA
+    22. BARAMPU
+    23. BARINGIN
+    24. BINJORI
+    25. BINTANG
+    26. BOANGMANALU
+    27. BOLIALA
+    28. BONDAR
+    29. BORBOR
+    30. BUATON
+    31. BUNUREA (BANUAREA)
+    32. BUNJORI
+    33. BUTARBUTAR
+
+    D.
+    34. DABUTAR (SIDABUTAR ?)
+    35. DAIRI (SIMANULLANG)
+    36. DAIRI (SINAMBELA)
+    37. DALIMUNTA (MUNTE ?)
+    38. DAPARI
+    39. DAULAE
+    40. DEBATARAJA (SIMAMORA)
+    41. DEBATARAJA (RAMBE)
+    42. DOLOKSARIBU
+    43. DONGORAN
+    44. DOSI (PARDOSI)
+
+    G.
+    45. GAJAA
+    46. GAJADIRI
+    47. GAJAMANIK
+    48. GIRSANG
+    49. GORAT
+    50. GULTOM
+    51. GURNING
+    52. GUSAR
+
+    H.
+    53. HABEAHAN
+    54. HARAHAP
+    55. HARIANJA
+    56. HARO
+    57. HAROHARO
+    58. HASIBUAN
+    59. HASUGIAN
+    60. HUTABALIAN
+    61. HUTABARAT
+    62. HUTAJULU
+    63. HUTAGALUNG
+    64. HUTAGAOL (LONTUNG)
+    65. HUTAGAOL (SUMBA)
+    66. HUTAHAEAN
+    67. HUTAPEA
+    68. HUTASOIT
+    69. HUTASUHUT
+    70. HUTATORUAN
+    71. HUTAURUK
+
+    K.
+    72. KASOGIHAN
+    73. KUDADIRI
+
+    L.
+    74. LAMBE
+    75. LIMBONG
+    76. LINGGA
+    77. LONTUNG
+    78. LUBIS
+    79. LUBIS HATONOPAN
+    80. LUBIS SINGASORO
+    81. LUMBANBATU
+    82. LUMBANDOLOK
+    83. LUMBANGAOL (MARBUN)
+    84. LUMBANGAOL (TAMBUNAN)
+    85. LUMBAN NAHOR (SITUMORANG)
+    86. LUMBANPANDE (SITUMORANG)
+    87. LUMBANPANDE (PANDIANGAN)
+    88. LUMBANPEA (TAMBUNAN)
+    89. LUMBANRAJA
+    90. LUMBAN SIANTAR
+    91. LUMBANTOBING
+    92. LUMBANTORUAN (SIRINGORINGO)
+    93. LUMBANTORUAN (SIHOMBING)
+    94. LUMBANTUNGKUP
+
+    M.
+    95. MAHA
+    96. MAHABUNGA
+    97. MAHARAJA
+    98. MALAU
+    99. MALIAM
+    100. MANALU (TOGA SIMAMORA)
+    101. MANALU-RAMBE
+    102. MANALU (BOANG)
+    103. MANIK
+    104. MANIK URUK
+    105. MANURUNG
+    106. MARBUN
+    107. MARBUN SEHUN
+    108. MARDOSI
+    109. MARPAUNG
+    110. MARTUMPU
+    111. MATANIARI
+    112. MATONDANG
+    113. MEHA
+    114. MEKAMEKA
+    115. MISMIS
+    116. MUKUR
+    117. MUNGKUR
+    118. MUNTE (NAIMUNTE ?)
+
+    N.
+    119. NABABAN
+    120. NABUNGKE
+    121. NADAPDAP
+    122. NADEAK
+    123. NAHAMPUN
+    124. NAHULAE
+    125. NAIBAHO
+    126. NAIBORHU
+    127. NAIMUNTE
+    128. NAIPOSPOS
+    130. NAPITU
+    131. NAPITUPULU
+    132. NASUTION
+    133. NASUTION BOTOTAN
+    134. NASUTION LONCAT
+    135. NASUTION TANGGA AMBENG
+    136. NASUTION SIMANGGINTIR
+    137. NASUTION MANGGIS
+    138. NASUTION JORING
+
+    O.
+    139. OMPUSUNGGU
+    140. OMPU MANUNGKOLLANGIT
+
+    P.
+    141. PADANG (SITUMORANG)
+    142. PADANG (BATANGHARI)
+    143. PANGARAJI (TAMBUNAN)
+    144. PAKPAHAN
+    145. PAMAN
+    146. PANDEURUK
+    147. PANDIANGAN-LUMBANPANDE
+    148. PANDIANGAN SITANGGUBANG
+    149. PANDIANAGN SITURANGKE
+    150. PANJAITAN
+    151. PANE
+    152. PANGARIBUAN
+    153. PANGGABEAN
+    154. PANGKAR
+    155. PAPAGA
+    156. PARAPAT
+    157. PARDABUAN
+    158. PARDEDE
+    159. PARDOSI-DAIRI
+    160. PARDOSI (SIAGIAN)
+    161. PARHUSIP
+    162. PASARIBU
+    163. PASE
+    164. PASI
+    165. PINAYUNGAN
+    166. PINARIK
+    167. PINTUBATU
+    168. POHAN
+    169. PORTI
+    170. POSPOS
+    171. PULUNGAN
+    172. PURBA (TOGA SIMAMORA)
+    173. PURBA (RAMBE)
+    174. PUSUK
+
+    R.
+    175. RAJAGUKGUK
+    176. RAMBE-PURBA
+    177. RAMBE-MANALU
+    178. RAMBE-DEBATARAJA
+    179. RANGKUTI-DANO
+    180. RANGKUTI-PANE
+    181. REA
+    182. RIMOBUNGA
+    183. RITONGA
+    184. RUMAHOMBAR
+    185. RUMAHORBO
+    186. RUMAPEA
+    187. RUMASINGAP
+    188. RUMASONDI
+
+    S.
+    189. SAGALA
+    190. SAGALA-BANGUNREA
+    191. SAGALA-HUTABAGAS
+    192. SAGALA HUTAURAT
+    193. SAING
+    194. SAMBO
+    195. SAMOSIR
+    196. SAPA
+    197. SARAGI (SAMOSIR)
+    198. SARAGIH (SIMALUNGUN)
+    199. SARAAN (SERAAN)
+    200. SARUKSUK
+    201. SARUMPAET
+    202. SEUN (SEHUN)
+    203. SIADARI
+    204. SIAGIAN (SIREGAR)
+    205. SIAGIAN (TUAN DIBANGARNA)
+    206. SIAHAAN (NAINGGOLAN)
+    207. SIAHAAN (TUAN SOMANIMBIL)
+    208. SIAHAAN HINALANG
+    209. SIAHAAN BALIGE
+    210. SIAHAAN LUMBANGORAT
+    211. SIAHAAN TARABUNGA
+    212. SIAHAAN SIBUNTUON
+    213. SIALLAGAN
+    214. SIAMPAPAGA
+    215. SIANIPAR
+    216. SIANTURI
+    217. SIBANGEBENGE
+    218. SIBARANI
+    219. SIBARINGBING
+    220. SIBORO
+    221. SIBORUTOROP
+    222. SIBUEA
+    223. SIBURIAN
+    224. SIDABALOK
+    225. SIDABANG
+    226. SINABANG
+    227. SIDEBANG
+    228. SIDABARIBA
+    229. SINABARIBA
+    230. SIDABUNGKE
+    231. SIDABUTAR (SARAGI)
+    232. SIDABUTAR (SILAHISABUNGAN)
+    233. SIDAHAPINTU
+    234. SIDARI
+    235. SIDAURUK
+    236. SIJABAT
+    237. SIGALINGGING
+    238. SIGIRO
+    239. SIHALOHO
+    240. SIHITE
+    241. SIHOMBING
+    242. SIHOTANG
+    243. SIKETANG
+    244. SIJABAT
+    245. SILABAN
+    246. SILAE
+    247. SILAEN
+    248. SILALAHI
+    249. SILALI
+    250. SILEANG
+    251. SILITONGA
+    252. SILO
+    253. SIMAIBANG
+    254. SIMALANGO
+    255. SIMAMORA
+    256. SIMANDALAHI
+    257. SIMANJORANG
+    258. SIMANJUNTAK
+    259. SIMANGUNSONG
+    260. SIMANIHURUK
+    261. SIMANULLANG
+    262. SIMANUNGKALIT
+    263. SIMARANGKIR (SIMORANGKIR)
+    264. SIMAREMARE
+    265. SIMARGOLANG
+    266. SIMARMATA
+    267. SIMARSOIT
+    268. SIMATUPANG
+    269. SIMBIRING-MEHA
+    270. SEMBIRING-MELIALA
+    271. SIMBOLON
+    272. SINABANG
+    273. SINABARIBA
+    274. SINAGA
+    275. SIBAGARIANG
+    276. SINAMBELA-HUMBANG
+    277. SINAMBELA DAIRI
+    278. SINAMO
+    279. SINGKAPAL
+    280. SINURAT
+    281. SIPAHUTAR
+    282. SIPAYUNG
+    283. SIPANGKAR
+    284. SIPANGPANG
+    285. SIPARDABUAN
+    286. SIRAIT
+    287. SIRANDOS
+    288. SIREGAR
+    289. SIRINGKIRON
+    290. SIRINGORINGO
+    291. SIRUMAPEA
+    292. SIRUMASONDI
+    293. SITANGGANG
+    294. SITANGGUBANG
+    295. SITARIHORAN
+    296. SITINDAON
+    297. SITINJAK
+    298. SITIO
+    299. SITOGATOROP
+    300. SITOHANG URUK
+    301. SITOHANG TONGATONGA
+    302. SITOHANG TORUAN
+    303. SITOMPUL
+    304. SITORANG (SITUMORANG)
+    305. SITORBANDOLOK
+    306. SITORUS
+    307. SITUMEANG
+    308. SITUMORANG-LUMBANPANDE
+    309. SITUMORANG-LUMBAN NAHOR
+    310. SITUMORANG-SUHUTNIHUTA
+    311. SITUMORANG-SIRINGORINGO
+    312. SITUMORANG-SITOGANG URUK
+    313. SITUMORANG SITOHANG TONGATONGA
+    314. SITUMORANG SITOHANGTORUAN
+    315. SITUNGKIR
+    316. SITURANGKE
+    317. SOBU
+    318. SOLIA
+    319. SOLIN
+    320. SORGANIMUSU
+    321. SORMIN
+    322. SUHUTNIHUTA-SITUMORANG
+    323. SUHUTNIHUTA-SINAGA
+    324. SUHUTNIHUTA-PANDIANGAN
+    325. SUMBA
+    326. SUNGE
+    327. SUNGGU
+
+    T.
+    328. TAMBA
+    329. TAMBAK
+    330. TAMBUNAN BARUARA
+    331. TAMBUNAN LUMBANGAOL
+    332. TAMBUNAN LUMPANPEA
+    333. TAMBUNAN PAGARAJI
+    334. TAMBUNAN SUNGE
+    335. TAMPUBOLON
+    336. TAMPUBOLON BARIMBING
+    337. TAMPUBOLON SILAEN
+    338. TAKKAR
+    339. TANJUNG
+    340. TARIHORAN
+    341. TENDANG
+    342. TINAMBUNAN
+    343. TINENDUNG
+    344. TOGATOROP
+    345. TOMOK
+    346. TORBANDOLOK
+    347. TUMANGGOR
+    348. TURNIP
+    349. TURUTAN
+
+    Tj ( C).
+    350. TJAPA (CAPA)
+    351. TJAMBO (CAMBO)
+    352. TJIBERO (CIBERO)
+
+    U.
+    353. UJUNG-RIMOBUNGA
+    354. UJUNG-SARIBU
+
+    KAROKARO:
+    355. KAROKARO BARUS
+    356. KAROKARO BUKIT
+    357. KAROKARO GURUSINGA
+    358. KAROKARO JUNG
+    359. KAROKARO KALOKO
+    360. KAROKARO KACARIBU
+    361. KAR0KARO KESOGIHAN
+    362. KAROKARO KETAREN
+    363. KAROKARO KODADIRI
+    364. KAROKARO PURBA
+    365. KAROKARO SINURAYA (dari sian raya)
+    366. KAROKARO SEKALI
+    367. KAROKARO SIKEMIT
+    368. KAROKARO SINABULAN
+    369. KAROKARO SINUAJI
+    370. KAROKARO SINUKABAN
+    371. KAROKARO SINULINGGA
+    372. KAROKARO SIMURA
+    373. KAROKARO SITEPU
+    374. KAROKARO SURBAKTI
+
+    TARIGAN
+    375. TARIGAN BANDANG
+    376. TARIGAN GANAGANA
+    377. TARIGAN GERNENG
+    378. TARIGAN GIRSANG
+    379. TARIGAN JAMPANG
+    380. TARIGAN PURBA
+    381. TARIGAN SILANGIT
+    382. TARIGAN TAMBAK
+    383. TARIGAN TAMBUN
+    384. TARIGAN TAGUR
+    385. TARIGAN TUA
+    386. TARIGAN CIBERO
+
+    PERANGINANGIN
+    387. PERANGINANGIN-BENJERANG
+    388. PERANGINANGIN BANGUN
+    389. PERANGINANGIN KABAK
+    390. PERANGINANGIN KACINABU
+    391. PERANGINANGIN KELIAT
+    392. PERANGINANGIN LAKSA
+    393. PERANGINANGIN MANO
+    394. PERANGINANGIN NAMOHAJI
+    395. PERANGINANGIN PANGGARUN
+    396. PERANGINANGIN PENCAWAN
+    397. PERANGINANGIN PARBESI
+    398. PERANGINANGIN PERASIH
+    399. PERANGINANGIN PINEM
+    400. PERANGINANGIN SINUBAYANG
+    401. PERANGINANGIN SINGARIMBUM
+    402. PERANGINANGIN SINURAT
+    403. PERANGINANGIN SUKATENDE
+    404. PERANGINANGIN ULUJANDI
+    405. PERANGINANGIN UWIR
+
+    GINTING
+    406. GINTING BAHO
+    407. GINTING BERAS
+    408. GINTING GURUPATIH
+    409. GINTING JADIBATA
+    410. GINTING JAWAK
+    411. GINTING MANIK
+    412. GINTING MUNTE
+    413. GINTING PASE
+    414. GINTING SIGARAMATA
+    415. GINTING SARAGIH
+    416. GINTING SINUSINGAN
+    417. GINTING SUGIHEN
+    418. GINTING SINUSUKA
+    419. GINTING TUMANGGER
+    420. GINTING CAPA
+
+    SEMBIRING
+    421. SEMBIRING-BRAHMANA
+    422. SEMBIRING BUNUHAJI
+    423. SEMBIRING BUSUK (PU)
+    424. SEMBIRING DEPARI
+    425. SEMBIRING GALUK
+    426. SEMBIRING GURU KINAYA
+    427. SEMBIRING KELING
+    428. SEMBIRING KALOKO
+    429. SEMBIRING KEMBAREN
+    430. SEMBIRING MELIALA
+    431. SEMBIRING MUHAM
+    432. SEMBIRING PANDEBAYANG
+    433. SEMBIRING PANDIA
+    434. SEMBIRING PELAWI
+    435. SEMBIRING SINULAKI
+    436. SEMBIRING SINUPAYUNG
+    437. SEMBIRING SINUKAPAR
+    438. SEMBIRING TAKANG
+    439. SEMBIRING SOLIA  </string>
+
+
+    <string name="about">Suku Batak merupakan salah satu suku bangsa di Indonesia. Nama ini merupakan sebuah tema kolektif untuk mengidentifikasikan beberapa suku bangsa yang bermukim dan berasal dari Tapanuli dan Sumatera Timur, di Sumatera Utara. Suku bangsa yang dikategorikan sebagai Batak adalah: Batak Toba, Batak Karo, Batak Pakpak, Batak Simalungun, Batak Angkola, dan Batak Mandailing.
+
+Saat ini pada umumnya orang Batak menganut agama Kristen Protestan, Kristen Katolik, dan Islam Sunni. Tetapi ada pula yang menganut kepercayaan tadisional yakni: tradisi Malim dan juga menganut kepercayaan animisme (disebut Sipelebegu atau Parbegu), walaupun kini jumlah penganut kedua ajaran ini sudah semakin berkurang.</string>
+
+    <string name="about1">Sejarah Suku Batak
+
+Orang Batak adalah penutur bahasa Austronesia namun tidak diketahui kapan nenek moyang orang Batak pertama kali bermukim di Tapanuli dan Sumatera Timur. Bahasa dan bukti-bukti arkeologi menunjukkan bahwa orang yang berbahasa Austronesia dari Taiwan telah berpindah ke wilayah Filipina dan Indonesia sekitar 2.500 tahun lalu, yaitu pada zaman batu muda (Neolitikum). Karena hingga sekarang belum ada artefak Neolitikum (Zaman Batu Muda) yang ditemukan di wilayah Batak maka dapat diduga bahwa nenek moyang Batak baru bermigrasi ke Sumatera Utara pada zaman logam.
+
+Pada abad ke-6, pedagang-pedagang Tamil asal India mendirikan kota dagang Barus, di pesisir barat Sumatera Utara. Mereka berdagang kapur Barus yang diusahakan oleh petani-petani di pedalaman. Kapur Barus dari tanah Batak bermutu tinggi sehingga menjadi salah satu komoditas ekspor di samping kemenyan. Pada abad ke-10, Barus diserang oleh Sriwijaya. Hal ini menyebabkan terusirnya pedagang-pedagang Tamil dari pesisir Sumatera. Pada masa-masa berikutnya, perdagangan kapur Barus mulai banyak dikuasai oleh pedagang Minangkabau yang mendirikan koloni di pesisir barat dan timur Sumatera Utara. Koloni-koloni mereka terbentang dari Barus, Sorkam, hingga Natal.
+
+Batak merupakan salah satu suku bangsa di Indonesia. Nama ini merupakan sebuah tema kolektif untuk mengidentifikasikan beberapa suku bangsa yang bermukim dan berasal dari Tapanuli dan Sumatera Timur, di Sumatera Utara. Suku bangsa yang dikategorikan sebagai Batak adalah: Batak Toba, Batak Karo, Batak Pakpak, Batak Simalungun, Batak Angkola, dan Batak Mandailing.
+
+Mayoritas orang Batak menganut agama Kristen dan sisanya beragama Islam. Tetapi ada pula yang menganut agama Malim dan juga menganut kepercayaan animisme (disebut Sipelebegu atau Parbegu), walaupun kini jumlah penganut kedua ajaran ini sudah semakin berkurang.</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".about"
+    android:orientation="vertical"
+    android:background="@drawable/wallpaper1"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/about"
+        android:layout_height="wrap_content"
+        android:text="ABOUT US"
+        android:textColor="@color/b"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="70dp"
+        android:textSize="28dp"
+        android:drawableLeft="@drawable/contact_24dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/ivabout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20sp"
+                android:src="@drawable/about"/>
+            <TextView
+                android:id="@id/about"
+                android:textColor="@color/c"
+                android:layout_below="@+id/ivabout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="25sp"
+                android:layout_marginRight="25sp"
+                android:layout_marginTop="20sp"
+                android:text="@string/about"
+                />
+
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

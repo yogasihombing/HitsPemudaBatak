@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".jenisbatak"
+    android:orientation="vertical"
+    android:background="@drawable/wallpaper1"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/jenis"
+        android:layout_height="wrap_content"
+        android:text="JENIS-JENIS BATAK"
+        android:textColor="@color/b"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="50dp"
+        android:textSize="28dp"
+        android:drawableLeft="@drawable/orang24dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/ivjenis"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20sp"
+                android:src="@drawable/jenis"/>
+            <TextView
+                android:id="@id/jenis"
+                android:textColor="@color/c"
+                android:layout_below="@+id/ivjenis"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="25sp"
+                android:layout_marginRight="25sp"
+                android:layout_marginTop="20sp"
+                android:text="@string/jenis"
+                />
+            <TextView
+                android:id="@id/jenis1"
+                android:textColor="@color/c"
+                android:layout_below="@+id/jenis"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="25sp"
+                android:layout_marginRight="25sp"
+                android:layout_marginTop="20sp"
+                android:text="@string/jenis1"
+                />
+            <TextView
+                android:id="@id/jenis2"
+                android:textColor="@color/c"
+                android:layout_below="@+id/jenis1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="25sp"
+                android:layout_marginRight="25sp"
+                android:layout_marginTop="20sp"
+                android:text="@string/jenis2"
+                />
+            <TextView
+                android:id="@id/jenis3"
+                android:textColor="@color/c"
+                android:layout_below="@+id/jenis2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="25sp"
+                android:layout_marginRight="25sp"
+                android:layout_marginTop="20sp"
+                android:text="@string/jenis3"
+                />
+            <TextView
+                android:textColor="@color/c"
+                android:layout_below="@+id/jenis3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/jenis4"
+                android:layout_marginLeft="25sp"
+                android:layout_marginRight="25sp"
+                android:layout_marginTop="20sp"
+                android:text="@string/jenis4"
+                />
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+</LinearLayout>
